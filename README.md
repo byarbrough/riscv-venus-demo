@@ -2,6 +2,8 @@
 
 Draw the RISC-V Logo with the [VS Code Venus Simulator](https://marketplace.visualstudio.com/items?itemName=hm.riscv-venus) LED Matrix.
 
+![RISC-V Logo](https://riscv.org/wp-content/uploads/2024/10/riscv_compatible.webp)
+
 Simply clone, open in VS Code, install the recommended plugins
 (`hm.riscv-venus` and `zhwu95.riscv`), then run and debug!
 
